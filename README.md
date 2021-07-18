@@ -1,4 +1,4 @@
-# Customer-Feedback-Sentiment-Analysis-
+# Customer-Feedback-Sentiment-Analysis
 Sentiment Analysis of Text
 
 Dataset : Amazon Instruments Reviews (taken from Kaggle)
